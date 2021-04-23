@@ -6,6 +6,18 @@
 # Solution : 
 
 
+## Building a chatbot and website :
+
+We have built a chatbot and a website for this.
+
+You can view them here : 
+
+
+:arrow_right: Chabot : https://t.me/Tie2374bot
+
+
+:arrow_right: Website :  http://hr123.herokuapp.com/
+
 ### Technology and tools:
 1. RASA (NLP)
 2. HTML (FrontEnd)
