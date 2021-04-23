@@ -44,6 +44,16 @@ The bot can provide a payslip for the respective employee which includes basic s
 
 The bot can also be used for reimbursement requests like for onsite purposes, BCP, Transfers, or employees can request for any other reimbursement by providing the project the employee is included, the total expenditure, etc.
 
+### UI Explanation:
+
+A separate website has been created for HR to view the messages that are carried out by the bot.
+
+Which contains the authentication process where respective hr can log in.
+
+After completion of the authentication, the webpage is redirected to another page where it displays every category that contains its own data which displays the issue and status of the issue whether it is solved or unsolved, and contains a button that will redirect to mails where hr can directly send the mails to respective employees.   
+
+
+
 
 
 
