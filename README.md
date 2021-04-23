@@ -17,18 +17,14 @@ This is an AI chatbot developed with the RASA package in python.
 
 The bot can handle the following requests:
 
-1.Leave Balance
-
-2.Salary Issues
-
-3.Harassment Issues
-
-4.Resignation Issues
-
-5.Payslip
-
-6.Reimbursement
-
+<ul>
+<li>Leave Balance</li>
+<li>Salary Issues</li>
+<li>Harassment Issues</li>
+<li>Resignation Issues</li>
+<li>Payslip</li>
+<li>Reimbursement</li>
+</ul>
 
 This is a user-friendly chatbot that gives responses to the user.
 
