@@ -29,6 +29,23 @@ The bot can handle the following requests:
 
 6.reimbursement
 
+This is a user-friendly chatbot that gives responses to the user.
+
+It does contain the security, access rights that authenticates the employees with respective username and password. If the respective details of the employee are valid then the employee can access the features of the bot.
+
+
+If The employee wants to check the leave balance they can simply message the bot asking for the leave balance or any type of message which implements the request.
+
+The bot will send the requested data from the database.
+
+The employee can request a salary issue in the same manner where the issue will be carried to the hr web page and database.
+
+The bot can provide a payslip for the respective employee which includes basic salary, bonus, HRA, etc.
+
+The bot can also be used for reimbursement requests like for onsite purposes, BCP, Transfers, or employees can request for any other reimbursement by providing the project the employee is included, the total expenditure, etc.
+
+
+
 
 
 
