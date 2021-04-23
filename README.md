@@ -7,11 +7,13 @@
 
 
 ### Technology and tools:
-1. Rasa
-2. html
-3. css
-4. js
-5. ejs(Embedded Javascript)
+1. RASA
+2. HTML
+3. CSS
+4. JS
+5. EJS(Embedded Javascript)
+6. NODEJS
+7. MONGODB
 
 # Team name:  
 Team Bros
