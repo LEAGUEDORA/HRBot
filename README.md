@@ -17,17 +17,17 @@ This is an AI chatbot developed with the RASA package in python.
 
 The bot can handle the following requests:
 
-1.leave balance
+1.Leave Balance
 
-2.salary issues
+2.Salary Issues
 
-3.harassment issues
+3.Harassment Issues
 
-4.resignation issues
+4.Resignation Issues
 
-5.payslip
+5.Payslip
 
-6.reimbursement
+6.Reimbursement
 
 This is a user-friendly chatbot that gives responses to the user.
 
@@ -87,9 +87,9 @@ Team Bros
 <h1>Team members:</h1>
 
 <ul>
-  <li>Sandeep ( ) </li>
-  <li>Abhijeeth ( ) </li>
-  <li>Praven ( ) </li>
-  <li>Mahesh ( ) </li>
-  <li>Abhishek ( ) </li>
+  <li>Sandeep (Team Lead,Chatbot Developer ) </li>
+  <li>Abhijeeth (Chatbot Developer ) </li>
+  <li>Praven (End To End Tester ) </li>
+  <li>Mahesh (Full Stack Web Developer ) </li>
+  <li>Abhishek (Full Stack Web Developer ) </li>
 </ul>
