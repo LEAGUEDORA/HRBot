@@ -11,7 +11,7 @@
 2. html
 3. css
 4. js
-5. ejs
+5. ejs(Embedded Javascript)
 
 # Team name:  
 Team Bros
